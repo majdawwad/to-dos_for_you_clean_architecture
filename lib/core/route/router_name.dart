@@ -1,0 +1,10 @@
+const String layoutRoute = 'layout-page';
+const String signInRoute = 'sign-in-page';
+const String todoTextRoute = 'todo-text-page';
+const String todoDetailsRoute = 'todo-details-page';
+const String addOrUpdateTodoPage = 'add-or-update-todo-page';
+const String userTodoRoute = 'user-todo-page';
+const String userTodoDetailsRoute = 'user-todo-details-page';
+const String updateUserTodoPage = 'update-user-todo-page';
+const String settingsRoute = 'settings-page';
+const String profileUserInfo = 'profile-user-info';
